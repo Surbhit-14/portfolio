@@ -1,0 +1,100 @@
+@media only screen and (max-width: 100vh) {
+ 
+     .secondary {
+      width: 30vh;
+      height: 40vh;
+      overflow: hidden;
+      scroll-behavior: smooth;
+      overflow-y: scroll;
+    
+    }
+    .secondary::-webkit-scrollbar{
+        display: none;
+    }
+    .icon{
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+    }
+
+    #i{
+        width: 30px;
+    }
+    .topic{
+        margin-top: 15px;
+        margin-bottom: 10px;
+    }
+    .t{
+        font-size: 20px;
+        color: aliceblue;
+        text-decoration: underline;
+        text-underline-offset: 3px;
+        
+    }
+    .img1{
+        background-color: aliceblue;
+        border-radius: 50px;
+        padding: 2px;
+    }
+   .logos{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 5px;
+   }
+   .line{
+    margin-top: 5px;
+    margin-bottom: 3px;
+   }
+   #tit{
+    font-size: 30px;
+    color: white;
+   }
+   #techimg{
+    width: 40px;
+   }
+   .prohead{
+    font-size: 16px;
+    padding-left: 8px;
+    display: flex;
+    margin-top: 8px;
+    margin-bottom: 5px;
+    color: aliceblue;
+   }
+   .desc{
+    padding: 5px;
+    font-size: 15px;
+    color: aliceblue
+   }
+   .link{
+    width: 20px;
+   }
+   .contact{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 6px;
+   }
+   .if{
+    width: 25vh;
+    border-radius: 40px;
+    border: 1px solid white;
+    background-color: aquamarine;
+   }
+   .if1{
+    width: 25vh;
+    height: 80px;
+    border-radius: 10px;
+    border: 1px solid white;
+    background-color: aquamarine;
+   }
+    .sbtn{
+        padding: 3px;
+        border-radius: 4px;
+        border: 1px solid white;
+        background-color: rgb(123, 209, 180);
+    }
+    .sbtnlogo{
+        display: none;
+  }
+}

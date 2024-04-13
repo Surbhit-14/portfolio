@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    
+}
+canvas{
+    position: relative;
+}
+.secondary{
+    position: absolute;
+   
+}
+.base{
+    border-radius: 40px;
+}
