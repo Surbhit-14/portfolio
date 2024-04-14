@@ -98,4 +98,22 @@
     .sbtnlogo{
         display: none;
   }
+ .if::placeholder {
+  font-weight: bold;
+  opacity: 0.5;
+  color: black;
+  text-align:center;
+}
+ .if1::placeholder {
+  font-weight: bold;
+  opacity: 0.5;
+  color: black;
+  text-align:center;
+}
+ .sbtn::placeholder {
+  font-weight: bold;
+  opacity: 0.5;
+  color: black;
+  text-align:center;
+}
 }
