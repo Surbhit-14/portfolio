@@ -26,6 +26,17 @@ addEventListener('mouseup', () => {
     mouseDown = false
 })
 
+addEventListener('touchmove', () => {
+    // mouse.x = event.clientX
+    // mouse.y = event.clientY
+    mouseDown = true 
+})
+addEventListener('touchend', () => {
+    // mouse.x = event.clientX
+    // mouse.y = event.clientY
+    mouseDown = false
+})
+
 addEventListener('resize', () => {
     canvas.width = innerWidth
     canvas.height = innerHeight
