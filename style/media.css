@@ -1,8 +1,8 @@
 @media only screen and (max-width: 100vh) {
  
      .secondary {
-      width: 30vh;
-      height: 40vh;
+      width: 35vh;
+      height: 60vh;
       overflow: hidden;
       scroll-behavior: smooth;
       overflow-y: scroll;
