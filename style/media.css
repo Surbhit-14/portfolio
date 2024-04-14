@@ -77,14 +77,14 @@
     gap: 6px;
    }
    .if{
-    width: 25vh;
+    width: 35vh;
     border-radius: 40px;
     border: 1px solid white;
     background-color: aquamarine;
    }
    .if1{
-    width: 25vh;
-    height: 80px;
+    width: 35vh;
+    height: 120px;
     border-radius: 10px;
     border: 1px solid white;
     background-color: aquamarine;
