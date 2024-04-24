@@ -6,4 +6,4 @@ Style folder constitute all style(css) files.
 Script folder constitute javascript files.
 Assests contain all documents.
 And Images folder contain all images and logos used.</b><br>
-<p color="blue">Star mark this repository</p>
+<p style="background-color:tomato;">Star mark this repository</p>
