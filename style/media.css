@@ -1,5 +1,7 @@
 @media only screen and (max-width: 100vh) {
- 
+ *{
+    font-family: Roboto;
+ }
      .secondary {
       width: 35vh;
       height: 80vh;
@@ -115,5 +117,13 @@
   opacity: 0.5;
   color: black;
   text-align:center;
+}
+.otherskill{
+    height: 100%;
+    width: 100%;
+}
+.li{
+    color: aliceblue;
+    text-align: center;
 }
 }
