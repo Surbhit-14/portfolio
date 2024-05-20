@@ -83,6 +83,8 @@
     border-radius: 40px;
     border: 1px solid white;
     background-color: aquamarine;
+    height:6px;
+    padding:2px:
    }
    .if1{
     width: 35vh;
@@ -90,6 +92,8 @@
     border-radius: 10px;
     border: 1px solid white;
     background-color: aquamarine;
+    height:10px;
+    padding:3px;
    }
     .sbtn{
         padding: 3px;
